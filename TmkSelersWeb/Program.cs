@@ -27,6 +27,7 @@ builder.Services.AddScoped<ValidacionesService>();
 builder.Services.AddScoped<ProspectoService>();
 builder.Services.AddScoped<GestionDeLlamadosService>();
 builder.Services.AddScoped<MailServices>();
+builder.Services.AddScoped<RespuestasService>();
 
 var app = builder.Build();
 

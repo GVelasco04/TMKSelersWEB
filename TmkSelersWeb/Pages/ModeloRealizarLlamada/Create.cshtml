@@ -1,0 +1,102 @@
+﻿@page
+@model TmkSelersWeb.Pages.ModeloRealizarLlamada.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Realizar Llamada</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <!-- Campo para seleccionar el nombre del prospecto -->
+            <div class="form-group">
+                <label asp-for="LlamadosProspectos.IdProspecto" class="control-label">Nombre</label>
+                <select asp-for="LlamadosProspectos.IdProspecto" class="form-control" asp-items="ViewBag.IdProspecto"></select>
+            </div>
+
+            <!-- Campo para seleccionar la respuesta -->
+            <div class="form-group">
+                <label asp-for="LlamadosProspectos.CodRespuesta" class="control-label">Respuesta</label>
+                <select asp-for="LlamadosProspectos.CodRespuesta" class="form-control" asp-items="ViewBag.CodRespuesta"></select>
+            </div>
+
+            <!-- Campo de la fecha -->
+            <div class="form-group">
+                <label asp-for="LlamadosProspectos.Fecha" class="control-label">Fecha</label>
+                <input asp-for="LlamadosProspectos.Fecha" class="form-control" type="date" />
+                <span asp-validation-for="LlamadosProspectos.Fecha" class="text-danger"></span>
+            </div>
+
+            <!-- Campo de la hora actual -->
+            <div class="form-group">
+                <label asp-for="LlamadosProspectos.HoraInicio" class="control-label">Hora actual</label>
+                <input asp-for="LlamadosProspectos.HoraInicio" class="form-control" type="time" id="horaActual" readonly />
+                <span asp-validation-for="LlamadosProspectos.HoraInicio" class="text-danger"></span>
+            </div>
+
+            <!-- Campo de observación -->
+            <div class="form-group">
+                <label asp-for="LlamadosProspectos.Observacion" class="control-label">Observacion</label>
+                <input asp-for="LlamadosProspectos.Observacion" class="form-control" />
+                <span asp-validation-for="LlamadosProspectos.Observacion" class="text-danger"></span>
+            </div>
+
+            <!-- Botón para guardar -->
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            // Obtener la hora actual
+            var now = new Date();
+            var hours = now.getHours().toString().padStart(2, '0');
+            var minutes = now.getMinutes().toString().padStart(2, '0');
+            var currentTime = hours + ":" + minutes;
+
+            // Asignar la hora al campo de la hora actual
+            document.getElementById("horaActual").value = currentTime;
+        });
+    </script>
+}
+
+<style>
+    .container {
+        margin: 50px auto;
+        padding: 20px;
+        max-width: 600px;
+        background-color: white;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-control {
+        /* Puedes ajustar el tamaño de los cuadros aquí si deseas un tamaño personalizado */
+        height: 40px; /* Altura de los campos de entrada */
+    }
+
+    .form-control-md {
+        height: 10px; /* Altura específica para campos medianos */
+    }
+
+    textarea.form-control {
+        height: 100px; /* Altura del cuadro de observaciones */
+    }
+
+    }
+</style>

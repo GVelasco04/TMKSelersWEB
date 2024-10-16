@@ -1,0 +1,65 @@
+﻿@page
+@model TmkSelersWeb.Pages.ModeloRealizarLlamada.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>LlamadosProspectos</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="LlamadosProspectos.IdLlamadosProspectos" />
+            <div class="form-group">
+                <label asp-for="LlamadosProspectos.IdProspecto" class="control-label"></label>
+                <select asp-for="LlamadosProspectos.IdProspecto" class="form-control" asp-items="ViewBag.IdProspecto"></select>
+                <span asp-validation-for="LlamadosProspectos.IdProspecto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LlamadosProspectos.CodRespuesta" class="control-label"></label>
+                <select asp-for="LlamadosProspectos.CodRespuesta" class="form-control" asp-items="ViewBag.CodRespuesta"></select>
+                <span asp-validation-for="LlamadosProspectos.CodRespuesta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LlamadosProspectos.Fecha" class="control-label"></label>
+                <input asp-for="LlamadosProspectos.Fecha" class="form-control" />
+                <span asp-validation-for="LlamadosProspectos.Fecha" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LlamadosProspectos.HoraInicio" class="control-label"></label>
+                <input asp-for="LlamadosProspectos.HoraInicio" class="form-control" />
+                <span asp-validation-for="LlamadosProspectos.HoraInicio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LlamadosProspectos.HoraFin" class="control-label"></label>
+                <input asp-for="LlamadosProspectos.HoraFin" class="form-control" />
+                <span asp-validation-for="LlamadosProspectos.HoraFin" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LlamadosProspectos.Observacion" class="control-label"></label>
+                <input asp-for="LlamadosProspectos.Observacion" class="form-control" />
+                <span asp-validation-for="LlamadosProspectos.Observacion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LlamadosProspectos.UserId" class="control-label"></label>
+                <input asp-for="LlamadosProspectos.UserId" class="form-control" />
+                <span asp-validation-for="LlamadosProspectos.UserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
