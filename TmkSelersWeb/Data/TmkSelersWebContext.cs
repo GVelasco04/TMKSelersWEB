@@ -21,7 +21,5 @@ namespace TmkSelersWeb.Data
         public DbSet<AppTelemarketing.Entidades.Usuario> Usuario { get; set; } = default!;
 
         public DbSet<AppTelemarketing.Entidades.TipoUsuarios> TipoUsuarios { get; set; }
-
-        public DbSet<AppTelemarketing.Entidades.LlamadosProspectos> LlamadosProspectos { get; set; } = default!;
     }
 }

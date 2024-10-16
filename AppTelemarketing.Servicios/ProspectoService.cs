@@ -235,46 +235,5 @@ namespace AppTelemarketing.Servicios
             }
             return new CargarProspectosResultado { ContSi = contSi, ContNo = contNo };
         }
-        public List<Prospecto> ProspectoNoLlamado(int idProspecto)
-        {
-            string SQLSelect = string.Empty;
-            List<Prospecto> prospectos = new List<Prospecto>();
-
-            if (idProspecto == 0)
-            {
-                // Consulta SQL para obtener el siguiente prospecto con Llamado = false
-                SQLSelect = "SELECT TOP 1 * FROM Prospectos WHERE Llamado = 0";
-            }
-            else
-            {
-                SQLSelect = "SELECT * FROM Prospectos WHERE IdProspecto=@IdProspecto";
-            }
-
-            Dictionary<string, string> parametros = new Dictionary<string, string>
-    {
-        { "@IdProspecto", idProspecto.ToString() }
-    };
-
-            var result = operaciones.Seleccion(SQLSelect, parametros) as DataTable;
-
-            if (result != null && result.Rows.Count > 0)
-            {
-                foreach (DataRow row in result.Rows)
-                {
-                    var prospecto = new Prospecto(
-                        Convert.ToInt32(row["IdProspecto"]),
-                        (long)(row["TelefonoPrincipal"] != DBNull.Value ? Convert.ToInt64(row["TelefonoPrincipal"]) : (long?)null),
-                        row["Apellido"].ToString(),
-                        row["Nombre"].ToString(),
-                        row["Llamado"] != DBNull.Value ? Convert.ToBoolean(row["Llamado"]) : (bool?)null,
-                        row["Venta"] != DBNull.Value ? Convert.ToBoolean(row["Venta"]) : (bool?)null,
-                        row["ObsProspecto"].ToString()
-                    );
-                    prospectos.Add(prospecto);
-                }
-            }
-
-            return prospectos;
-        }
     }
 }
