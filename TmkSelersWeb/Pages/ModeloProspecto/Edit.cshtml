@@ -1,0 +1,60 @@
+﻿@page
+@model TmkSelersWeb.Pages.ModeloProspecto.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Prospecto</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Prospecto.IdProspecto" />
+            <div class="form-group">
+                <label asp-for="Prospecto.TelefonoPrincipal" class="control-label"></label>
+                <input asp-for="Prospecto.TelefonoPrincipal" class="form-control" />
+                <span asp-validation-for="Prospecto.TelefonoPrincipal" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Prospecto.Apellido" class="control-label"></label>
+                <input asp-for="Prospecto.Apellido" class="form-control" />
+                <span asp-validation-for="Prospecto.Apellido" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Prospecto.Nombre" class="control-label"></label>
+                <input asp-for="Prospecto.Nombre" class="form-control" />
+                <span asp-validation-for="Prospecto.Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Prospecto.Llamado" class="control-label"></label>
+                <input asp-for="Prospecto.Llamado" class="form-control" />
+                <span asp-validation-for="Prospecto.Llamado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Prospecto.Venta" class="control-label"></label>
+                <input asp-for="Prospecto.Venta" class="form-control" />
+                <span asp-validation-for="Prospecto.Venta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Prospecto.ObsProspecto" class="control-label"></label>
+                <input asp-for="Prospecto.ObsProspecto" class="form-control" />
+                <span asp-validation-for="Prospecto.ObsProspecto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

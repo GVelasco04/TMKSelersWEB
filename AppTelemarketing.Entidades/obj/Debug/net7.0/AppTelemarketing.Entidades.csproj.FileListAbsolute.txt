@@ -1,0 +1,322 @@
+F:\Downloads\AppTelemarketing\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+F:\Downloads\AppTelemarketing\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+F:\Downloads\AppTelemarketing\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+F:\Downloads\AppTelemarketing\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\AppTelemarketing\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+F:\Downloads\AppTelemarketing\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+F:\Downloads\AppTelemarketing\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+F:\Downloads\AppTelemarketing\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+F:\Downloads\AppTelemarketing\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+F:\Downloads\AppTelemarketing\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+F:\Downloads\AppTelemarketing\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\Usuario\Desktop\proyecto Telemarkert\Nueva carpeta\AppTelemarketing\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\Usuario\Desktop\proyecto Telemarkert\Nueva carpeta\AppTelemarketing\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\Usuario\Desktop\proyecto Telemarkert\Nueva carpeta\AppTelemarketing\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\Usuario\Desktop\proyecto Telemarkert\Nueva carpeta\AppTelemarketing\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\proyecto Telemarkert\Nueva carpeta\AppTelemarketing\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\proyecto Telemarkert\Nueva carpeta\AppTelemarketing\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\proyecto Telemarkert\Nueva carpeta\AppTelemarketing\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\proyecto Telemarkert\Nueva carpeta\AppTelemarketing\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\Usuario\Desktop\proyecto Telemarkert\Nueva carpeta\AppTelemarketing\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\Usuario\Desktop\proyecto Telemarkert\Nueva carpeta\AppTelemarketing\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\Usuario\Desktop\proyecto Telemarkert\Nueva carpeta\AppTelemarketing\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\Usuario\Desktop\Nueva carpeta\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Nueva carpeta\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Nueva carpeta\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing3-05-2024 (2)\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing3-05-2024 (2)\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing3-05-2024 (2)\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing3-05-2024 (2)\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing3-05-2024 (2)\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing3-05-2024 (2)\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing3-05-2024 (2)\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing3-05-2024 (2)\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing3-05-2024 (2)\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing3-05-2024 (2)\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing3-05-2024 (2)\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing6-05-2024\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing6-05-2024\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing6-05-2024\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing6-05-2024\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing6-05-2024\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing6-05-2024\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing6-05-2024\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing6-05-2024\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing6-05-2024\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing6-05-2024\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketing6-05-2024\AppTelemarketing26-04-2024\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingCompleto\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\Desktop\AppTelemarketingCompleto\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingCompleto\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Desktop\AppTelemarketingCompleto\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\AppTelemarketingCompleto\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\AppTelemarketingCompleto\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\Desktop\AppTelemarketingCompleto\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\AppTelemarketingCompleto\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingCompleto\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingCompleto\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Desktop\AppTelemarketingCompleto\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingFinalizado\AppTelemarketingCompleto\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingFinalizado\AppTelemarketingCompleto\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingFinalizado\AppTelemarketingCompleto\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingFinalizado\AppTelemarketingCompleto\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingFinalizado\AppTelemarketingCompleto\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingFinalizado\AppTelemarketingCompleto\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingFinalizado\AppTelemarketingCompleto\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingFinalizado\AppTelemarketingCompleto\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingFinalizado\AppTelemarketingCompleto\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingFinalizado\AppTelemarketingCompleto\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingFinalizado\AppTelemarketingCompleto\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\Desktop\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Desktop\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\Desktop\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Desktop\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto15-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto15-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto15-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto15-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto15-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto15-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto15-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto15-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto15-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto15-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto15-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\Familia\Downloads\AppTelemarketingCompleto\AppTelemarketingCompleto\AppTelemarketingCompleto18-5-24\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\Desktop\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Desktop\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\Desktop\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Desktop\AppTelemarketingCompleto(05-06-24)\AppTelemarketingCompleto2\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingCompleto(07-06-24)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\Desktop\AppTelemarketingCompleto(07-06-24)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingCompleto(07-06-24)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Desktop\AppTelemarketingCompleto(07-06-24)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\AppTelemarketingCompleto(07-06-24)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\AppTelemarketingCompleto(07-06-24)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\Desktop\AppTelemarketingCompleto(07-06-24)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\AppTelemarketingCompleto(07-06-24)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingCompleto(07-06-24)\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingCompleto(07-06-24)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Desktop\AppTelemarketingCompleto(07-06-24)\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(28-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(28-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(28-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(28-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(28-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(28-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(28-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(28-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(28-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(28-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(28-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(30-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(30-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(30-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(30-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(30-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(30-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(30-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(30-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(30-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(30-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\Familia\Downloads\AppTelemarketingCompleto(30-06-24)\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(30-06-2024)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(30-06-2024)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(30-06-2024)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(30-06-2024)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(30-06-2024)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(30-06-2024)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(30-06-2024)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(30-06-2024)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(30-06-2024)\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(30-06-2024)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(30-06-2024)\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(10-07-2024)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(10-07-2024)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(10-07-2024)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(10-07-2024)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(10-07-2024)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(10-07-2024)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(10-07-2024)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(10-07-2024)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(10-07-2024)\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(10-07-2024)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingCompleto(10-07-2024)\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Downloads\AppTelemarketingCompleto(30-06-2024)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingActualizadoFinal\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\Downloads\AppTelemarketingActualizadoFinal\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingActualizadoFinal\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Downloads\AppTelemarketingActualizadoFinal\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\AppTelemarketingActualizadoFinal\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\AppTelemarketingActualizadoFinal\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\Downloads\AppTelemarketingActualizadoFinal\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\AppTelemarketingActualizadoFinal\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingActualizadoFinal\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingActualizadoFinal\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Downloads\AppTelemarketingActualizadoFinal\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\Desktop\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Desktop\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\Desktop\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\Desktop\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Desktop\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingFinal(27-07)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\Downloads\AppTelemarketingFinal(27-07)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingFinal(27-07)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Downloads\AppTelemarketingFinal(27-07)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\AppTelemarketingFinal(27-07)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\AppTelemarketingFinal(27-07)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\Downloads\AppTelemarketingFinal(27-07)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\AppTelemarketingFinal(27-07)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingFinal(27-07)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingFinal(27-07)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Downloads\AppTelemarketingFinal(27-07)\AppTelemarketingFinal(10-07)\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers\AppTelemarketingSelers\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers\AppTelemarketingSelers\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers\AppTelemarketingSelers\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingSelers14-9-sin validaciones\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\Downloads\AppTelemarketingSelers14-9-sin validaciones\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingSelers14-9-sin validaciones\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Downloads\AppTelemarketingSelers14-9-sin validaciones\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\AppTelemarketingSelers14-9-sin validaciones\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\AppTelemarketingSelers14-9-sin validaciones\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\Downloads\AppTelemarketingSelers14-9-sin validaciones\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\AppTelemarketingSelers14-9-sin validaciones\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingSelers14-9-sin validaciones\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingSelers14-9-sin validaciones\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Downloads\AppTelemarketingSelers14-9-sin validaciones\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers22-09\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers22-09\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers22-09\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers22-09\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers22-09\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers22-09\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers22-09\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers22-09\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers22-09\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers22-09\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\USUARIO\Downloads\AppTelemarketingSelers22-09\AppTelemarketingSelers14-9\AppTelemarketingSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingSelers23-9\AppTelemarketingSelers23-9\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\Downloads\AppTelemarketingSelers23-9\AppTelemarketingSelers23-9\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingSelers23-9\AppTelemarketingSelers23-9\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Downloads\AppTelemarketingSelers23-9\AppTelemarketingSelers23-9\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\AppTelemarketingSelers23-9\AppTelemarketingSelers23-9\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\AppTelemarketingSelers23-9\AppTelemarketingSelers23-9\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\AppTelemarketingSelers23-9\AppTelemarketingSelers23-9\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\Downloads\AppTelemarketingSelers23-9\AppTelemarketingSelers23-9\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\AppTelemarketingSelers23-9\AppTelemarketingSelers23-9\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingSelers23-9\AppTelemarketingSelers23-9\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\Downloads\AppTelemarketingSelers23-9\AppTelemarketingSelers23-9\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\Downloads\AppTelemarketingSelers23-9\AppTelemarketingSelers23-9\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll
+C:\Users\PC\TMKSelers\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\TMKSelers\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\TMKSelers\AppTelemarketing.Entidades\bin\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\TMKSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.AssemblyReference.cache
+C:\Users\PC\TMKSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\TMKSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\TMKSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\TMKSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\TMKSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.sourcelink.json
+C:\Users\PC\TMKSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.dll
+C:\Users\PC\TMKSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\TMKSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\AppTelemarketing.Entidades.pdb
+C:\Users\PC\TMKSelers\AppTelemarketing.Entidades\obj\Debug\net7.0\ref\AppTelemarketing.Entidades.dll

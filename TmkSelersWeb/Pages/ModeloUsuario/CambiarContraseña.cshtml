@@ -1,0 +1,57 @@
+﻿@page
+@model TmkSelersWeb.Pages.ModeloUsuario.CambiarContraseñaModel
+
+<script src="https://kit.fontawesome.com/eb675fee69.js" crossorigin="anonymous"></script>
+<link href="~/css/contrasena.css" rel="stylesheet" />
+@{
+    ViewData["Title"] = "Cambiar Contraseña TMK";
+
+}
+
+
+<body>
+   
+    <div class="form-container">
+        <h2 class="form-header">Cambiar Contraseña</h2>
+
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="contraseñaActual">Contraseña Actual</label>
+                    <div class="container-input">
+                        <i class="fa-solid fa-lock @(HttpContext.Session.GetInt32("TipoUsuario") == 1 ? "admin-icon" : "tmk-icon")"></i>
+                        <input asp-for="ContraseñaActual" class="form-control" placeholder="Ingrese Contraseña actual" required />
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="nuevaContraseña">Nueva Contraseña</label>
+                    <div class="container-input">
+                        <i class="fa-solid fa-lock @(HttpContext.Session.GetInt32("TipoUsuario") == 1 ? "admin-icon" : "tmk-icon")"></i>
+                        <input asp-for="NuevaContraseña" class="form-control" placeholder="Ingrese Nueva contraseña" required />
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-actions">
+                <button type="submit" class="button @(HttpContext.Session.GetInt32("TipoUsuario") == 1 ? "admin-button" : "tmk-button")">Guardar</button>
+                <a asp-page="/Privacy" class="button volver">Volver</a>
+            </div>
+
+            @if (TempData["Mensaje"] != null)
+            {
+                var mensajeClase = TempData["Mensaje"].ToString().Contains("exitosamente") ? "alert-success" : "alert-danger";
+                <div class="alert @mensajeClase" role="alert">@TempData["Mensaje"]</div>
+            }
+
+        </form>
+    </div>
+</body>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

@@ -1,0 +1,54 @@
+﻿@page
+@model TmkSelersWeb.Pages.ModeloAgendado.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Agendados[0].IdProspecto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Agendados[0].FechaAgenda)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Agendados[0].HoraAgenda)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Agendados[0].ObsProspecto)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Agendados) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdProspecto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaAgenda)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoraAgenda)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ObsProspecto)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.IdAgendado">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.IdAgendado">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.IdAgendado">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

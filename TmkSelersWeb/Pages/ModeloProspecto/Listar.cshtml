@@ -1,0 +1,50 @@
+﻿@page
+@model TmkSelersWeb.Pages.ModeloProspecto.ListarModel
+
+<link href="~/css/StyleSheet1.css" rel="stylesheet" />
+
+@{
+    ViewData["Title"] = "Listar Prospectos";
+}
+
+<h1 style="margin-top: 150px";>Listado de prospectos</h1>
+<p>Por orden de ingreso al sistema</p>
+<div class="ordenamiento" style="margin-top: 40px;"> 
+    <form method="get">
+        <button type="submit" name="sortOrder" value="asc" class="btn-ordenar">Orden Ascendente</button>
+        <button type="submit" name="sortOrder" value="desc" class="btn-ordenar">Orden Descendente</button>
+    </form>
+</div>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Prospecto[0].TelefonoPrincipal)</th>
+            <th>@Html.DisplayNameFor(model => model.Prospecto[0].Apellido)</th>
+            <th>@Html.DisplayNameFor(model => model.Prospecto[0].Nombre)</th>
+            @* <th>@Html.DisplayNameFor(model => model.Prospecto[0].Llamado)</th>
+            <th>@Html.DisplayNameFor(model => model.Prospecto[0].Venta)</th> *@
+            <th>@Html.DisplayNameFor(model => model.Prospecto[0].ObsProspecto)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Prospecto)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.TelefonoPrincipal)</td>
+                <td>@Html.DisplayFor(modelItem => item.Apellido)</td>
+                <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                @* <td>@Html.DisplayFor(modelItem => item.Llamado)</td>
+                <td>@Html.DisplayFor(modelItem => item.Venta)</td> *@
+                <td>@Html.DisplayFor(modelItem => item.ObsProspecto)</td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.IdProspecto" class="btn btn-sm btn-warning">Editar</a>
+                    <a asp-page="./Details" asp-route-id="@item.IdProspecto" class="btn btn-sm btn-info">Detalles</a>
+                    <a asp-page="./Delete" asp-route-id="@item.IdProspecto" class="btn btn-sm btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

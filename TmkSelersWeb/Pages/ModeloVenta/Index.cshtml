@@ -1,0 +1,120 @@
+﻿@page
+@model TmkSelersWeb.Pages.ModeloVenta.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].IdProspecto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].TelSecundario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].Direccion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].IdLocalidad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].IdProvincia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].CP)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].FechaVenta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].HoraComienzo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].HoraFin)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].CodigoProd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].Total)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].Mail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].IdMedioDePago)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].UserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].ObsSobreVenta)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Venta) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdProspecto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TelSecundario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Direccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdLocalidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdProvincia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CP)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaVenta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoraComienzo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoraFin)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CodigoProd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Total)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdMedioDePago)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ObsSobreVenta)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.IdCliente">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.IdCliente">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.IdCliente">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

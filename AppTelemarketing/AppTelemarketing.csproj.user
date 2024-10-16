@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmAjustesRespuestas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCambiarContraseniaAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCargarDatosBBDD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmConsultarAgendadosAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmConsultarLlamadaAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmConsultarVentasAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmRegistroRespuestasAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCambiarContrasena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmConsultarAgendados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmConsultarLlamada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmConsultarVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmEmpresas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMenuAdmi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmNuevoProspecto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmNuevoProspectoAdmi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmRealizarLlamada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmRegistrese.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmRegistroRespuestas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmServicio1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmServicio2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmServicio3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmServicio4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmServicio5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmServicio6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmServicio7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdministrarTmk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSpeech.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

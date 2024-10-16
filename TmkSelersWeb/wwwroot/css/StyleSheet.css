@@ -1,0 +1,133 @@
+﻿@import url("https://fonts.googleapis.com/css2?family=Poppins");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+.ordenamiento {
+    margin-top: 120px; /* para el ordenmiento de Listar Prospectos */
+}
+.ordenamiento button {
+    margin-right: 25px; /* Espaciado entre botones */
+ }
+
+
+body {
+    min-height: 100vh;
+    background: #fff;
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    /*background-color: rgba(11 39 24 / 53%);*/
+    box-shadow: 0 5px 10px rgba(0, 0,0,.1);
+    padding: 10px 7%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1000;
+}
+
+
+
+
+    header .Logo {
+        position: relative;
+        width: 200px;
+ 
+    }
+
+    header .navbar ul {
+        list-style: none;
+    }
+
+        header .navbar ul li {
+            position: relative;
+            float: left;
+            transition: box-shadow 0.3s ease;
+        }
+
+            header .navbar ul li a {
+                font-size: 15px;
+                padding: 20px;
+                color: #fff;
+                display: block;
+            }
+
+                header .navbar ul li a:hover {
+                    background: #587b6685;
+                    color: #fff;
+                    border-radius: 4px;
+                    border: 1px solid rgba(0, 0, 0, 0.5);
+                    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+                }
+
+            header .navbar ul li ul {
+                position: absolute;
+                left: 0;
+                width: 200px;
+                background-color: rgba(11 39 24 / 53%);
+                display: none;
+            }
+
+                header .navbar ul li ul li {
+                    width: 100%;
+                    border-top: 1px solid rgba(0,0,0,.1);
+                }
+
+
+            header .navbar ul li:focus-within > ul,
+            header .navbar ul li:hover > ul {
+                display: initial;
+            }
+
+
+.tmk-theme header {
+    background-color: rgba(11, 39, 24, 0.53);
+}
+
+.tmk-theme .navbar ul li a {
+    color: #fff;
+}
+
+    .tmk-theme .navbar ul li a:hover {
+        background-color: #587b6685;
+    }
+
+/* Estilos personalizados para Administrador */
+.admin-theme header {
+    background-color: rgba(24, 55, 85, 0.53); /* Azul */
+}
+
+.admin-theme .navbar ul li a {
+    color: #fff;
+}
+
+    .admin-theme .navbar ul li a:hover {
+        background-color: rgba(58, 75, 100, 0.85);
+        border-color: rgba(0, 0, 0, 0.5);
+    }
+
+.admin-theme .navbar ul li ul {
+    background-color: rgba(24, 55, 85, 0.53);
+}
+
+    .admin-theme .navbar ul li ul li {
+        border-top: 1px solid rgba(0,0,0,.1);
+    }
+
+.tmk-theme .navbar ul li ul {
+    background-color: rgba(11, 39, 24, 0.53);
+}

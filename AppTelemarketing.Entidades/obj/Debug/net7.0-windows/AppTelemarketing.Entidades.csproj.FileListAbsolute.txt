@@ -1,0 +1,11 @@
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\bin\Debug\net7.0-windows\AppTelemarketing.Entidades.deps.json
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\bin\Debug\net7.0-windows\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\bin\Debug\net7.0-windows\AppTelemarketing.Entidades.pdb
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0-windows\AppTelemarketing.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0-windows\AppTelemarketing.Entidades.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0-windows\AppTelemarketing.Entidades.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0-windows\AppTelemarketing.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0-windows\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0-windows\refint\AppTelemarketing.Entidades.dll
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0-windows\AppTelemarketing.Entidades.pdb
+C:\Users\PC\OneDrive\Escritorio\AppTelemarketingCompleto(14-06-24)2.0\AppTelemarketingCompleto(14-06-24)2-0\AppTelemarketing.Entidades\obj\Debug\net7.0-windows\ref\AppTelemarketing.Entidades.dll

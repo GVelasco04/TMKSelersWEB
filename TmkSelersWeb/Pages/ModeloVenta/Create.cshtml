@@ -1,0 +1,104 @@
+﻿@page
+@model TmkSelersWeb.Pages.ModeloVenta.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Venta</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Venta.IdProspecto" class="control-label"></label>
+                <input asp-for="Venta.IdProspecto" class="form-control" />
+                <span asp-validation-for="Venta.IdProspecto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Venta.TelSecundario" class="control-label"></label>
+                <input asp-for="Venta.TelSecundario" class="form-control" />
+                <span asp-validation-for="Venta.TelSecundario" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Venta.Direccion" class="control-label"></label>
+                <input asp-for="Venta.Direccion" class="form-control" />
+                <span asp-validation-for="Venta.Direccion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Venta.IdLocalidad" class="control-label"></label>
+                <input asp-for="Venta.IdLocalidad" class="form-control" />
+                <span asp-validation-for="Venta.IdLocalidad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Venta.IdProvincia" class="control-label"></label>
+                <input asp-for="Venta.IdProvincia" class="form-control" />
+                <span asp-validation-for="Venta.IdProvincia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Venta.CP" class="control-label"></label>
+                <input asp-for="Venta.CP" class="form-control" />
+                <span asp-validation-for="Venta.CP" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Venta.FechaVenta" class="control-label"></label>
+                <input asp-for="Venta.FechaVenta" class="form-control" />
+                <span asp-validation-for="Venta.FechaVenta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Venta.HoraComienzo" class="control-label"></label>
+                <input asp-for="Venta.HoraComienzo" class="form-control" />
+                <span asp-validation-for="Venta.HoraComienzo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Venta.HoraFin" class="control-label"></label>
+                <input asp-for="Venta.HoraFin" class="form-control" />
+                <span asp-validation-for="Venta.HoraFin" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Venta.CodigoProd" class="control-label"></label>
+                <input asp-for="Venta.CodigoProd" class="form-control" />
+                <span asp-validation-for="Venta.CodigoProd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Venta.Total" class="control-label"></label>
+                <input asp-for="Venta.Total" class="form-control" />
+                <span asp-validation-for="Venta.Total" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Venta.Mail" class="control-label"></label>
+                <input asp-for="Venta.Mail" class="form-control" />
+                <span asp-validation-for="Venta.Mail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Venta.IdMedioDePago" class="control-label"></label>
+                <input asp-for="Venta.IdMedioDePago" class="form-control" />
+                <span asp-validation-for="Venta.IdMedioDePago" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Venta.UserId" class="control-label"></label>
+                <input asp-for="Venta.UserId" class="form-control" />
+                <span asp-validation-for="Venta.UserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Venta.ObsSobreVenta" class="control-label"></label>
+                <input asp-for="Venta.ObsSobreVenta" class="form-control" />
+                <span asp-validation-for="Venta.ObsSobreVenta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

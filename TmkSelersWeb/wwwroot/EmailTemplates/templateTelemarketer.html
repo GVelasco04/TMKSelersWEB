@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <title>Registro Telemarketer</title>
+    <style>
+        body {
+            background-color: #FAFAFA;
+            font-family: Arial, sans-serif;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 600px;
+            background-color: #FFFFFF;
+            margin: 0 auto;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 20px;
+            color: #333333;
+        }
+
+        p {
+            font-size: 14px;
+        }
+
+        .key {
+            font-weight: bold;
+            font-size: 16px;
+        }
+
+        .header {
+            background-color: #0C4C47;
+            color: white;
+            padding: 15px;
+            border-radius: 8px 8px 0 0;
+            text-align: left;
+        }
+
+            .header img {
+                max-width: 40px;
+                vertical-align: middle;
+                margin-right: 10px;
+                max-width: 100%; /* Asegura que la imagen no exceda el contenedor */
+                height: auto; /* Mantiene la proporción */
+            }
+
+        .welcome-text {
+            background-color: #d9ead3;
+            padding: 10px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        .footer {
+            background-color: #0C4C47;
+            color: white;
+            padding: 15px;
+            font-size: 12px;
+            border-radius: 0 0 8px 8px;
+            margin-top: 20px;
+        }
+
+            .footer p {
+                margin: 5px 0;
+            }
+
+        .info {
+            font-weight: bold;
+            font-size: 14px;
+            background-color: #f8d7da; /* Color de fondo rojo suave */
+            color: #721c24; /* Color de texto rojo oscuro */
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+
+        .success {
+            color: #0C4C47; /* Verde del encabezado */
+            font-weight: bold;
+        }
+
+        .pending {
+            color: #6c757d; /* Color gris para el mensaje */
+        }
+
+        .reminder {
+            font-weight: bold; /* Texto en negrita */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <img src="https://i.imgur.com/GO2Bvm6.png" alt="Telemarket Selers Logo" style="width: 180px; height: auto">
+        </div>
+
+        <!-- Bienvenida -->
+        <div class="welcome-text">
+            <h1>Bienvenido/a, {{Nombre}}</h1>
+        </div>
+        <img src="https://fpioejh.stripocdn.email/content/guids/CABINET_ce8890782078ff25e560a1d012fa47f1095786515ccf91dea0e777ed5dfb1874/images/telemarket_selers_1.gif" alt="Imagen de bienvenida" width="150" height="150" style="display: block; margin: 0 auto;">
+
+        <p class="success">Te has registrado exitosamente como Telemarketer en el sistema de Telemarketing.</p>
+
+        <p class="info">Tu cuenta está pendiente de aceptación por parte de un administrador.</p>
+
+        <p class="reminder"><strong>Una vez que seas aceptado, recibirás un correo con tu contraseña temporal.</strong></p>
+
+        <p class="pending">Si no solicitaste este registro, por favor, ignora este correo.</p>
+
+        <div class="footer">
+            <p>Este es un mensaje automático. No responda a este correo.</p>
+            <p>Telemarket Selers &copy; 2024</p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,131 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+.form-container {
+    width: 70%; /* Mantén el mismo ancho que el otro formulario */
+    margin: 0 auto;
+    margin-top: 180px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    width: 48%; /* Cambia a 48% para que los campos se alineen como en el otro formulario */
+}
+
+label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.container-input {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #eeeeee;
+}
+
+    .container-input i {
+       /* color: rgb(54, 152, 121);*/
+        margin-right: 10px;
+    }
+
+.admin-icon {
+    color: #126a9c;
+}
+
+
+.tmk-icon {
+    color: rgb(54, 152, 121);
+}
+
+    .container-input input {
+        border: none;
+        outline: none;
+        background: none;
+        width: 100%;
+        padding: 5px 10px;
+        font-size: 14px;
+    }
+
+.form-actions {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+a.button {
+    color: #004d40;
+}
+
+button {
+    padding: 10px 20px;
+   /* background-color: #004d40;*/
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+  /*  button:hover{
+        background-color: #10574a;
+    }*/
+
+
+.admin-button {
+    background-color: #126a9c;
+}
+
+    .admin-button:hover {
+        background-color: #2b638f;
+    }
+
+
+.tmk-button {
+    background-color: #004d40; /* Verde */
+}
+
+    .tmk-button:hover {
+        background-color: #10574a; 
+    }
+
+
+
+
+.alert {
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.alert-success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+.alert-danger {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}

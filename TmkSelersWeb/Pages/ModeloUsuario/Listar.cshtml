@@ -1,0 +1,40 @@
+﻿@page
+@model TmkSelersWeb.Pages.ModeloUsuario.ListarModel
+<link href="~/css/tablas2.css" rel="stylesheet" />
+@{
+    ViewData["Title"] = "Listar";
+}
+
+<table class="table table-striped table-bordered" style="margin-top: 150px">
+    <thead class="thead-dark">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Usuario[0].UserName)</th>
+            <th>@Html.DisplayNameFor(model => model.Usuario[0].Nombre)</th>
+            <th>@Html.DisplayNameFor(model => model.Usuario[0].Apellido)</th>
+            <th>@Html.DisplayNameFor(model => model.Usuario[0].Correo)</th>
+            <th>@Html.DisplayNameFor(model => model.Usuario[0].Clave)</th>
+            <th>@Html.DisplayNameFor(model => model.Usuario[0].TipoUsuario)</th>
+            <th>@Html.DisplayNameFor(model => model.Usuario[0].AceptadoXAdmin)</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Usuario)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.UserName)</td>
+                <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                <td>@Html.DisplayFor(modelItem => item.Apellido)</td>
+                <td>@Html.DisplayFor(modelItem => item.Correo)</td>
+                <td>@Html.DisplayFor(modelItem => item.Clave)</td>
+                <td>@Html.DisplayFor(modelItem => item.TipoUsuariosNavigation.Descripcion)</td>
+                <td>@Html.DisplayFor(modelItem => item.AceptadoXAdmin)</td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.UserId" class="btn btn-sm btn-warning">Editar</a>
+                    <a asp-page="./Details" asp-route-id="@item.UserId" class="btn btn-sm btn-info">Detalles</a>
+                    <a asp-page="./Delete" asp-route-id="@item.UserId" class="btn btn-sm btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

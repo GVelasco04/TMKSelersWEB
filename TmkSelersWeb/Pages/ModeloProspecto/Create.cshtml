@@ -1,0 +1,104 @@
+﻿@page
+@model TmkSelersWeb.Pages.ModeloProspecto.CreateModel
+<link rel="stylesheet" href="~/css/styleProspecto.css" />
+<script src="https://kit.fontawesome.com/eb675fee69.js" crossorigin="anonymous"></script>
+@{
+    ViewData["Title"] = "Agregar Nuevo Prospecto";
+}
+
+<body>
+    <div class="form-container">
+        <h2 class="form-header">Agregar Nuevo Prospecto</h2>
+
+        <!-- Validaciones personalizadas -->
+        @if (ViewData["ValidationErrors"] != null)
+        {
+            <div class="alert alert-warning" role="alert">
+                <ul>
+                    @foreach (var error in (List<string>)ViewData["ValidationErrors"])
+                    {
+                        <li>@error</li>
+                    }
+                </ul>
+            </div>
+        }
+
+        @if (ViewData["TelefonoError"] != null || ViewData["NombreError"] != null || ViewData["ApellidoError"] != null)
+        {
+            <div class="alert alert-warning" role="alert">
+                @if (ViewData["TelefonoError"] != null)
+                {
+                    <p>@ViewData["TelefonoError"]</p>
+                }
+                @if (ViewData["NombreError"] != null)
+                {
+                    <p>@ViewData["NombreError"]</p>
+                }
+                @if (ViewData["ApellidoError"] != null)
+                {
+                    <p>@ViewData["ApellidoError"]</p>
+                }
+            </div>
+        }
+
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="nombre">Nombre</label>
+                    <div class="container-input">
+                        <i class="fa-solid fa-address-card"></i>
+                        <input asp-for="Prospecto.Nombre" class="form-control" placeholder="Ingrese su nombre" />
+                        <span asp-validation-for="Prospecto.Nombre" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="observaciones">Observaciones</label>
+                  @*   <textarea asp-for="Prospecto.Observaciones" class="form-control" placeholder="Ingrese observaciones"></textarea>
+                    <span asp-validation-for="Prospecto.Observaciones" class="text-danger"></span> *@
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="apellido">Apellido</label>
+                    <div class="container-input">
+                        <i class="fa-solid fa-address-card"></i>
+                        <input asp-for="Prospecto.Apellido" class="form-control" placeholder="Ingrese su apellido" />
+                        <span asp-validation-for="Prospecto.Apellido" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="telefono">Teléfono</label>
+                    <div class="container-input">
+                        <i class="fa-solid fa-phone"></i>
+                        <input asp-for="Prospecto.TelefonoPrincipal" class="form-control" placeholder="Ingrese su teléfono" />
+                        <span asp-validation-for="Prospecto.TelefonoPrincipal" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-actions">
+                <button type="submit" class="button">Guardar</button>
+                <a asp-page="/Privacy" class="btn volver">Volver</a>
+
+            </div>
+
+            @if (TempData["SuccessMessage"] != null)
+            {
+                <div class="alert alert-success">
+                    @TempData["SuccessMessage"]
+                </div>
+            }
+        </form>
+    </div>
+</body>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

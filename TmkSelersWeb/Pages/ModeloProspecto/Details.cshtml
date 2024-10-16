@@ -1,0 +1,55 @@
+﻿@page
+@model TmkSelersWeb.Pages.ModeloProspecto.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Prospecto</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Prospecto.TelefonoPrincipal)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Prospecto.TelefonoPrincipal)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Prospecto.Apellido)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Prospecto.Apellido)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Prospecto.Nombre)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Prospecto.Nombre)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Prospecto.Llamado)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Prospecto.Llamado)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Prospecto.Venta)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Prospecto.Venta)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Prospecto.ObsProspecto)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Prospecto.ObsProspecto)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Prospecto?.IdProspecto">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

@@ -1,0 +1,144 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TmkSelersWeb</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/TmkSelersWeb.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/StyleSheet.css">
+</head>
+<body class="@(Context.Session.GetInt32("TipoUsuario") == 1 ? "admin-theme" : "tmk-theme")">
+    <header>
+        <div class="header-content">
+            <div class="Logo @(Context.Session.GetInt32("TipoUsuario") == 1 ? "admin-logo" : "tmk-logo")"></div>
+            <div class="user-info @(Context.Session.GetInt32("TipoUsuario") == 1 ? "admin-border" : "tmk-border")">
+                @if (Context.Session.GetString("UserName") != null)
+                {
+                    <span>Bienvenido, @Context.Session.GetString("UserName")!</span>
+                }
+            </div>
+        </div>
+
+        <nav class="navbar">
+            <ul>
+                <li><a asp-area="" asp-page="/Privacy">Home</a></li>
+
+                @if (Context.Session.GetInt32("TipoUsuario") == 1) // Administrador
+                {
+                    <li><a asp-area="" asp-page="/ModeloUsuario/Listar">Administrar TMK</a></li>
+                    <li>
+                        <a href="#">Cargar +</a>
+                        <ul>
+                            <li><a asp-area="" asp-page="">Nuevo Prospecto</a></li>
+                            <li><a asp-area="" asp-page="">Datos en BBDD</a></li>
+
+                         
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">Consultar +</a>
+                        <ul>
+                            <li><a asp-area="" asp-page="">Ventas</a></li>
+                            <li><a asp-area="" asp-page="">Llamadas</a></li>
+                            <li><a asp-area="" asp-page="">Agendados</a></li>
+                            <li><a asp-area="" asp-page="">Respuestas</a></li>
+
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">Cambiar +</a>
+                        <ul>
+                            <li><a asp-area="" asp-page="/ModeloUsuario/CambiarContraseña">Contraseña</a></li>
+                        </ul>
+                    </li>
+            
+                }
+                else if (Context.Session.GetInt32("TipoUsuario") == 2) // Telemarketer
+                {
+                    <li>
+                        <a href="#">Cargar +</a>
+                        <ul>
+                            <li><a asp-area="" asp-page="/ModeloProspecto/Create">Nuevo Prospecto</a></li>
+                        @*     <li><a asp-area="" asp-page="/ModeloUsuario/Registro">Usuarios</a></li> *@
+                        </ul>
+                    </li>
+                    <li><a asp-area="" asp-page="">Realizar Llamados</a></li>
+                    <li>
+                        <a href="#">Consultar +</a>
+                        <ul>
+                        @*     <li><a asp-area="" asp-page="/ModeloProspecto/Listar">Prospectos</a></li> *@
+                         
+                            <li><a asp-area="" asp-page="/ModeloRespuesta/Listar">Respuestas</a></li>
+                            <li><a asp-area="" asp-page="/ModeloVenta/Listar">Ventas</a></li>
+                            <li><a asp-area="" asp-page="">Llamadas</a></li>
+                            <li><a asp-area="" asp-page="/ModeloAgendado/Listar">Agendados</a></li>
+
+                        </ul>
+                    </li>
+
+                    <li>
+                        <a href="#">Cambiar +</a>
+                        <ul>
+                            <li><a asp-area="" asp-page="/ModeloUsuario/CambiarContraseña">Contraseña</a></li>
+                        </ul>
+                    </li>
+                }
+
+                <li><a asp-area="" asp-page="/ModeloUsuario/LoginRegistro">Salir</a></li>
+            </ul>
+            
+        </nav>
+
+              
+    </header>
+    
+
+    <div class="container">
+        <main role="main" class="pb-3">
+
+            @RenderBody()
+        </main>
+
+    </div>
+
+    @if (Context.Request.Path == "/" || Context.Request.Path == "/Privacy")
+    {
+        <div class="slider">
+            <div class="slider-title1"><h2>ESPECIALISTAS CON FORMACIÓN</h2></div>
+            <div class="slider-title2"><h2>EN TELEMARKETING Y  </h2> </div>
+            <div class="slider-title3"><h2>ATENCIÓN AL CLIENTE. </h2> </div>
+
+            <ul>
+                <li>
+                    <img src="img/img1.png" alt="">
+                </li>
+                <li>
+                    <img src="img/img2.png" alt="">
+                </li>
+                <li>
+                    <img src="img/img3.png" alt="">
+                </li>
+                <li>
+                    <img src="img/img4.png" alt="">
+                </li>
+            </ul>
+
+        </div>
+    }
+
+
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - TmkSelersWeb 
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

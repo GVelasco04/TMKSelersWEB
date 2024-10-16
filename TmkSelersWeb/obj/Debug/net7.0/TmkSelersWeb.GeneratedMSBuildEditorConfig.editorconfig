@@ -1,0 +1,179 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TmkSelersWeb
+build_property.RootNamespace = TmkSelersWeb
+build_property.ProjectDir = C:\Users\PC\TMKSelersWEB\TmkSelersWeb\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\PC\TMKSelersWEB\TmkSelersWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloAgendado/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvQWdlbmRhZG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloAgendado/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvQWdlbmRhZG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloAgendado/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvQWdlbmRhZG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloAgendado/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvQWdlbmRhZG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloAgendado/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvQWdlbmRhZG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloAgendado/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvQWdlbmRhZG9cTGlzdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloProspecto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvUHJvc3BlY3RvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloProspecto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvUHJvc3BlY3RvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloProspecto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvUHJvc3BlY3RvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloProspecto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvUHJvc3BlY3RvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloProspecto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvUHJvc3BlY3RvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloProspecto/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvUHJvc3BlY3RvXExpc3Rhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloRespuesta/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvUmVzcHVlc3RhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloRespuesta/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvUmVzcHVlc3RhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloRespuesta/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvUmVzcHVlc3RhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloRespuesta/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvUmVzcHVlc3RhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloRespuesta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvUmVzcHVlc3RhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloRespuesta/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvUmVzcHVlc3RhXExpc3Rhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloUsuario/CambiarContraseña.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvVXN1YXJpb1xDYW1iaWFyQ29udHJhc2XDsWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloUsuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvVXN1YXJpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloUsuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvVXN1YXJpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloUsuario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvVXN1YXJpb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloUsuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvVXN1YXJpb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloUsuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloUsuario/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvVXN1YXJpb1xMaXN0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloUsuario/LoginRegistro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvVXN1YXJpb1xMb2dpblJlZ2lzdHJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloUsuario/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvVXN1YXJpb1xSZWdpc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloVenta/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvVmVudGFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloVenta/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvVmVudGFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloVenta/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvVmVudGFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloVenta/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvVmVudGFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloVenta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvVmVudGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/ModeloVenta/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxvVmVudGFcTGlzdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/TMKSelersWEB/TmkSelersWeb/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lmk164n3ze

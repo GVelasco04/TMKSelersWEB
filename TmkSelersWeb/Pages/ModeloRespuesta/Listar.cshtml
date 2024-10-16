@@ -1,0 +1,32 @@
+﻿@page
+@model TmkSelersWeb.Pages.ModeloRespuesta.ListarModel
+<link href="~/css/tablas.css" rel="stylesheet" />
+@{
+    ViewData["Title"] = "Listar Respuestas";
+}
+
+
+<table class="table" style="margin-top: 160px;">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Respuestas[0].Respuesta)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Respuestas) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Respuesta)
+            </td>
+            <td>
+                    <a asp-page="./Edit" asp-route-id="@item.CodRespuesta" class="btn btn-sm btn-warning">Editar</a> 
+                    <a asp-page="./Details" asp-route-id="@item.CodRespuesta" class="btn btn-sm btn-info">Detalles</a>
+                    <a asp-page="./Delete" asp-route-id="@item.CodRespuesta" class="btn btn-sm btn-danger">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

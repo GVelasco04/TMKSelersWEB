@@ -1,0 +1,87 @@
+﻿@page
+@model TmkSelersWeb.Pages.ModeloVenta.ListarModel
+<link href="~/css/tablas2.css" rel="stylesheet" />
+@{
+    ViewData["Title"] = "Listar Ventas";
+}
+<h1 style="margin-top: 150px; font-size: 24px;">Listado de Ventas</h1>
+
+<table class="table" >
+    
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].IdProspecto)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].FechaVenta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].HoraComienzo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].HoraFin)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].CodigoProd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].Total)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].Mail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].IdMedioDePago)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Venta[0].ObsSobreVenta)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Venta)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdProspecto)
+                </td>
+
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaVenta)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HoraComienzo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HoraFin)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CodigoProd)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Total)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Mail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdMedioDePago)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.ObsSobreVenta)
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.IdCliente" class="btn btn-sm btn-warning">Editar</a>
+                    <a asp-page="./Details" asp-route-id="@item.IdCliente" class="btn btn-sm btn-info">Detalles</a>
+                    <a asp-page="./Delete" asp-route-id="@item.IdCliente" class="btn btn-sm btn-danger">Eliminar</a>
+            </tr>
+        }
+    </tbody>
+</table>

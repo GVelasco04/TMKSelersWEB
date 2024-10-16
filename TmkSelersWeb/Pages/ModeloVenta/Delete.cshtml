@@ -1,0 +1,112 @@
+﻿@page
+@model TmkSelersWeb.Pages.ModeloVenta.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Venta</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Venta.IdProspecto)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Venta.IdProspecto)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Venta.TelSecundario)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Venta.TelSecundario)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Venta.Direccion)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Venta.Direccion)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Venta.IdLocalidad)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Venta.IdLocalidad)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Venta.IdProvincia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Venta.IdProvincia)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Venta.CP)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Venta.CP)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Venta.FechaVenta)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Venta.FechaVenta)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Venta.HoraComienzo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Venta.HoraComienzo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Venta.HoraFin)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Venta.HoraFin)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Venta.CodigoProd)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Venta.CodigoProd)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Venta.Total)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Venta.Total)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Venta.Mail)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Venta.Mail)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Venta.IdMedioDePago)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Venta.IdMedioDePago)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Venta.UserId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Venta.UserId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Venta.ObsSobreVenta)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Venta.ObsSobreVenta)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="Venta.IdCliente" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+</div>

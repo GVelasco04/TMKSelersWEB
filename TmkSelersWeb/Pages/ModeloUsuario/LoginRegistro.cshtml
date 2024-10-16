@@ -1,0 +1,155 @@
+﻿@page
+@model TmkSelersWeb.Pages.ModeloUsuario.LoginRegistroModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login/Register Page</title>
+    <link rel="stylesheet" href="~/css/login.css">
+</head>
+<body>  
+    <div class="container @(Model.ErrorMessagesRegister.Any() || !string.IsNullOrEmpty(Model.SuccessMessage) ? "toggle" : "")">
+
+        <!-- Formulario de inicio de sesión -->
+        <div class="container-form">
+            <form method="post" asp-page-handler="Login" class="sign-in">
+                <h2>Iniciar Sesión</h2>
+                <span>Ingrese su usuario y contraseña</span>
+
+                <!-- Campo para el nombre de usuario -->
+                <div class="container-input">
+                    <ion-icon name="person-outline"></ion-icon>
+                    <input asp-for="Usuario.UserName" id="Usuario_UserName_Login" placeholder="Usuario" />
+                </div>
+
+                <!-- Campo para la contraseña -->
+                <div class="container-input">
+                    <ion-icon name="lock-closed-outline"></ion-icon>
+                    <input asp-for="Usuario.Clave" id="Usuario_Clave_Login" type="password" placeholder="Contraseña" />
+                </div>
+
+                <!-- Campo para seleccionar el rol -->
+                <div class="container-input">
+                    <ion-icon name="people-outline"></ion-icon>
+                    <label for="Rol_Login">Rol</label>
+                    <select asp-for="Usuario.TipoUsuario" id="Usuario_TipoUsuario_Login">
+                        @foreach (var tipoUsuario in Model.TiposUsuarios)
+                        {
+                            <option value="@tipoUsuario.IdTipoUsuario">@tipoUsuario.Descripcion</option>
+                        }
+                    </select>
+                </div>
+
+                <!-- Botón de inicio de sesión -->
+                <button type="submit" class="button">INICIAR SESIÓN</button>
+
+                <!-- Mostrar errores de validación si existen -->
+                @if (Model.ErrorMessagesLogin.Any())
+                {
+                    <div class="text-danger">
+                        <strong>Errores de validación:</strong>
+                        <ul>
+                            @foreach (var error in Model.ErrorMessagesLogin)
+                            {
+                                <li>@error</li>
+                            }
+                        </ul>
+                    </div>
+                }
+            </form>
+        </div>
+
+        <!-- Formulario de registro -->
+        <div class="container-form">
+            <form method="post" asp-page-handler="Register" class="sign-up">
+                <h2>Registrarse</h2>
+                <span>Bienvenido a Registro</span>
+
+                <!-- Campo para el nombre -->
+                <div class="container-input">
+                    <ion-icon name="reader-outline"></ion-icon>
+                    <input asp-for="Usuario.Nombre" placeholder="Nombre" />
+                </div>
+
+                <!-- Campo para el apellido -->
+                <div class="container-input">
+                    <ion-icon name="reader-outline"></ion-icon>
+                    <input asp-for="Usuario.Apellido" placeholder="Apellido" />
+                </div>
+
+                <!-- Campo para el correo electrónico -->
+                <div class="container-input">
+                    <ion-icon name="mail-outline"></ion-icon>
+                    <input asp-for="Usuario.Correo" type="email" placeholder="Correo" />
+                </div>
+
+                <!-- Campo para el nombre de usuario -->
+                <div class="container-input">
+                    <ion-icon name="person-outline"></ion-icon>
+                    <input asp-for="Usuario.UserName" id="Usuario_UserName_SignUp" placeholder="Usuario" />
+                </div>
+
+                <!-- Campo para seleccionar el rol -->
+                <div class="container-input">
+                    <ion-icon name="people-outline"></ion-icon>
+                    <label for="Rol_Register">Rol</label>
+                    <select asp-for="Usuario.TipoUsuario" id="Usuario_TipoUsuario_SignUp">
+                        @foreach (var tipoUsuario in Model.TiposUsuarios)
+                        {
+                            <option value="@tipoUsuario.IdTipoUsuario">@tipoUsuario.Descripcion</option>
+                        }
+                    </select>
+                </div>
+
+                <!-- Botón de registro -->
+                <button class="button">REGISTRARSE</button>
+
+                <!-- Mostrar mensaje de éxito si el registro fue correcto -->
+                @if (!string.IsNullOrEmpty(Model.SuccessMessage))
+                {
+                    <div class="alert alert-success">
+                        @Model.SuccessMessage
+                    </div>
+                }
+
+                <!-- Mostrar errores de validación si existen -->
+                @if (Model.ErrorMessagesRegister.Any())
+                {
+                    <div class="text-danger">
+                        <strong>Errores de validación:</strong>
+                        <ul>
+                            @foreach (var error in Model.ErrorMessagesRegister)
+                            {
+                                <li>@error</li>
+                            }
+                        </ul>
+                    </div>
+                }
+            </form>
+        </div>
+
+        <!-- Sección de bienvenida con botones para cambiar entre el registro y el inicio de sesión -->
+        <div class="container-welcome">
+            <div class="welcome-sign-up welcome">
+                <h3>¡Bienvenido!</h3>
+                <p>Ingrese sus datos para poder navegar</p>
+                <button class="button" id="btn-sign-up">Registrarse</button>
+            </div>
+            <div class="welcome-sign-in welcome">
+                <h3>¡Hola!</h3>
+                <p>Crear una cuenta nueva, para ser parte de TMK SELERS</p>
+                <button class="button" id="btn-sign-in">Iniciar Sesión</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts externos -->
+    <script src="~/js/JavaScript.js"></script>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
+</html>

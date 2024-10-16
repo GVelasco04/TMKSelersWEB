@@ -1,0 +1,130 @@
+﻿@import url("https://fonts.googleapis.com/css2?family=Poppins");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    color: #343a40;
+    line-height: 1.5;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.container {
+    width: 90%; /* Espacio a ambos lados de la tabla */
+    margin: 0 auto; /* Centra el contenedor */
+    overflow-x: auto; /* Habilita scroll horizontal si es necesario */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 16px;
+    table-layout: auto;
+    min-width: 600px; /* Ancho mínimo de la tabla */
+    overflow-x: auto;
+
+    
+}
+
+th, td {
+    padding: 16px 18px;
+    text-align: left;
+}
+
+thead th {
+    background-color: rgb(0, 61, 59); /* Encabezado verde oscuro */
+    color: white;
+    width: 25px;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #d9f2e6; /* Verde claro 1 para filas impares */
+}
+
+tbody tr:nth-child(even) {
+    background-color: #c2e8db; /* Verde claro 2 para filas pares */
+}
+
+/* Colores de los botones con esquema más suave */
+.btn-primary {
+    background-color: #4CAF50; /* Verde */
+    color: white;
+}
+
+.btn-warning {
+    background-color: #FFC107; /* Amarillo */
+    color: white;
+}
+
+.btn-info {
+    background-color: #29B6F6; /* Azul claro */
+    color: white;
+}
+
+.btn-danger {
+    background-color: #E53935; /* Rojo */
+    color: white;
+}
+
+.btn {
+    padding: 1px 8px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+form .btn-ordenar {
+    background-color: rgb(0, 61, 59); /* Verde oscuro para ordenar */
+    color: white;
+}
+
+    form .btn-ordenar:hover {
+        background-color: #178884; /* Verde brillante en hover */
+    }
+
+/* Responsive: scroll horizontal en pantallas pequeñas */
+@media (max-width: 768px) {
+    .container {
+        overflow-x: auto;
+    }
+
+    table {
+        min-width: 600px;
+    }
+}
+
+/* Botones */
+.btn-warning {
+    background-color: #007965; /* Verde más oscuro */
+    color: white;
+}
+
+.btn-info {
+    background-color: #00a79d; /* Verde turquesa suave */
+    color: white;
+}
+
+.btn-danger {
+    background-color: #d9534f; /* Mantén el rojo si quieres que destaque */
+    color: white;
+}
+
+    /* Hover de los botones */
+    .btn-warning:hover, .btn-info:hover, .btn-danger:hover {
+        opacity: 0.8;
+    }
+
+/* Ajuste general de botones */
+.btn {
+    padding: 1px 8px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: opacity 0.3s ease;
+}

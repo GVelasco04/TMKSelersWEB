@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppTelemarketing", "AppTelemarketing\AppTelemarketing.csproj", "{81B2770B-3F3C-4F1F-928C-56C472FB0928}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{E6FDBEAC-DE41-4ED7-A25D-CD977DD9B4C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppTelemarketing.Entidades", "AppTelemarketing.Entidades\AppTelemarketing.Entidades.csproj", "{703B583F-F1CC-4244-BB3C-67BDB4D7FF87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppTelemarketing.Servicios", "AppTelemarketing.Servicios\AppTelemarketing.Servicios.csproj", "{DC4E05B1-8944-46EB-AD17-F49D4DDAF6B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppTelemarketing.CapaDatos", "AppTelemarketing.CapaDatos\AppTelemarketing.CapaDatos.csproj", "{D400B3BA-8776-4BA6-A7F2-764580FB5A21}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TmkSelersWeb", "TmkSelersWeb\TmkSelersWeb.csproj", "{D63A2B79-CBB7-4007-ABE0-AD5B6E6CA3AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F1994464-2B23-4063-8E30-F98B342F91E3}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B2770B-3F3C-4F1F-928C-56C472FB0928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B2770B-3F3C-4F1F-928C-56C472FB0928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B2770B-3F3C-4F1F-928C-56C472FB0928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B2770B-3F3C-4F1F-928C-56C472FB0928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{703B583F-F1CC-4244-BB3C-67BDB4D7FF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703B583F-F1CC-4244-BB3C-67BDB4D7FF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703B583F-F1CC-4244-BB3C-67BDB4D7FF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703B583F-F1CC-4244-BB3C-67BDB4D7FF87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4E05B1-8944-46EB-AD17-F49D4DDAF6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4E05B1-8944-46EB-AD17-F49D4DDAF6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4E05B1-8944-46EB-AD17-F49D4DDAF6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4E05B1-8944-46EB-AD17-F49D4DDAF6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D400B3BA-8776-4BA6-A7F2-764580FB5A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D400B3BA-8776-4BA6-A7F2-764580FB5A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D400B3BA-8776-4BA6-A7F2-764580FB5A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D400B3BA-8776-4BA6-A7F2-764580FB5A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D63A2B79-CBB7-4007-ABE0-AD5B6E6CA3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63A2B79-CBB7-4007-ABE0-AD5B6E6CA3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63A2B79-CBB7-4007-ABE0-AD5B6E6CA3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63A2B79-CBB7-4007-ABE0-AD5B6E6CA3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{81B2770B-3F3C-4F1F-928C-56C472FB0928} = {E6FDBEAC-DE41-4ED7-A25D-CD977DD9B4C5}
+		{D63A2B79-CBB7-4007-ABE0-AD5B6E6CA3AD} = {E6FDBEAC-DE41-4ED7-A25D-CD977DD9B4C5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F5E230D-D993-481B-9B16-C55BEF8CFCD1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,61 @@
+﻿@page
+@model TmkSelersWeb.Pages.ModeloAgendado.ListarModel
+<link href="~/css/tablas.css" rel="stylesheet" />
+
+@{
+    ViewData["Title"] = "Listar Agendados";
+}
+
+<h1 style="margin-top: 150px" ;>Listado de Agendados</h1>
+<p>Por fecha de agenda</p>
+<div class="ordenamiento" style="margin-top: 40px;">
+    <form method="get">
+        <button type="submit" name="sortOrder" value="asc" class="btn-ordenar">Fecha ascendente</button>
+        <button type="submit" name="sortOrder" value="desc" class="btn-ordenar">Fecha descendente</button>
+    </form>
+</div>
+
+
+
+<table class="table" style="margin-top: 40px;">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Agendados[0].IdProspecto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Agendados[0].FechaAgenda)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Agendados[0].HoraAgenda)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Agendados[0].ObsProspecto)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Agendados) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdProspecto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaAgenda)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoraAgenda)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ObsProspecto)
+            </td>
+            <td>
+                    <a asp-page="./Edit" asp-route-id="@item.IdAgendado" class="btn btn-sm btn-warning">Editar</a>
+                    <a asp-page="./Details" asp-route-id="@item.IdAgendado" class="btn btn-sm btn-info">Detalles</a>
+                    <a asp-page="./Delete" asp-route-id="@item.IdAgendado" class="btn btn-sm btn-danger">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

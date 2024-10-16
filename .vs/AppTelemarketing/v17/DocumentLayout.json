@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\TMKSelersWEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D63A2B79-CBB7-4007-ABE0-AD5B6E6CA3AD}|TmkSelersWeb\\TmkSelersWeb.csproj|c:\\users\\pc\\tmkselersweb\\tmkselersweb\\pages\\modelousuario\\cambiarcontrase\u00F1a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D63A2B79-CBB7-4007-ABE0-AD5B6E6CA3AD}|TmkSelersWeb\\TmkSelersWeb.csproj|solutionrelative:tmkselersweb\\pages\\modelousuario\\cambiarcontrase\u00F1a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63A2B79-CBB7-4007-ABE0-AD5B6E6CA3AD}|TmkSelersWeb\\TmkSelersWeb.csproj|c:\\users\\pc\\tmkselersweb\\tmkselersweb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D63A2B79-CBB7-4007-ABE0-AD5B6E6CA3AD}|TmkSelersWeb\\TmkSelersWeb.csproj|solutionrelative:tmkselersweb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CambiarContrase\u00F1a.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\TMKSelersWEB\\TmkSelersWeb\\Pages\\ModeloUsuario\\CambiarContrase\u00F1a.cshtml",
+              "RelativeDocumentMoniker": "TmkSelersWeb\\Pages\\ModeloUsuario\\CambiarContrase\u00F1a.cshtml",
+              "ToolTip": "C:\\Users\\PC\\TMKSelersWEB\\TmkSelersWeb\\Pages\\ModeloUsuario\\CambiarContrase\u00F1a.cshtml",
+              "RelativeToolTip": "TmkSelersWeb\\Pages\\ModeloUsuario\\CambiarContrase\u00F1a.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T02:07:43.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\TMKSelersWEB\\TmkSelersWeb\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TmkSelersWeb\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\TMKSelersWEB\\TmkSelersWeb\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TmkSelersWeb\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T18:32:28.524Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

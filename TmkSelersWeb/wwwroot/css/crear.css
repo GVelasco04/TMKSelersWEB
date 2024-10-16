@@ -1,0 +1,100 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+  
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Centra verticalmente el contenido */
+    height: 100vh; /* Asegura que el body ocupe toda la altura de la ventana */
+    background-color: #fff;
+}
+
+.container-form {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 100%;
+    max-width: 800px; 
+   
+}
+
+.container-formm {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 25px;
+    width: 100%;
+    max-width: 800px;
+    margin-top:20px;
+}
+
+    .container-form h2 {
+        font-size: 20px;
+        margin-left: 50px;
+        margin-bottom: 20px;
+    }
+.container-input {
+    width: 280px; /* Ajusta según el ancho deseado */
+    height: 40px; /* Altura de los campos de entrada */
+    margin-bottom: 10px; /* Espacio entre los campos */
+    display: flex; /* Utiliza flexbox para alinear los íconos y los campos */
+    align-items: center; /* Alinea verticalmente los íconos y los campos */
+    gap: 8px; /* Espacio entre el ícono y el campo */
+    padding: 0 15px; 
+    background-color: #EEEEEE; 
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+    .container-input i {
+        color: rgb(54, 152, 121); 
+        font-size: 18px; 
+    }
+
+    .container-input input {
+        border: none; 
+        outline: none; /* Sin contorno */
+        width: 100%; 
+        height: 100%; 
+        background-color: inherit; /* Fondo transparente para que se vea el fondo del contenedor */
+        padding: 0 10px; /* Espacio interno del campo de entrada */
+        border-radius: 3px;
+    }
+
+    .container-input i:hover {
+        color: #033C3B; /* Color del ícono al pasar el mouse */
+    }
+
+
+.form-group {
+    margin-bottom: 15px; 
+}
+
+.form-control {
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+    padding: 10px;
+    box-shadow: none;
+    width: 100%;
+}
+
+.button {
+    width: 170px;
+    height: 45px;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgb(54, 152, 121);
+    color: white;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+.button:hover {
+        background-color: #033C3B;
+}
+
